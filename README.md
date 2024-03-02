@@ -12,6 +12,10 @@ This is a simple website showcasing information about the fictional character **
 ## Introduction
 The website provides details about Satoru Gojo's profile, including his age, height, gender, hair color, and eye color. Additionally, a brief description of the series and its protagonist, Yuji Itadori, is included. The layout is designed with a modern and clean aesthetic.
 
+<img src="[https://drive.google.com/uc?export=view&id=YOUR_IMAGE_FILE_ID](https://drive.google.com/file/d/1WOqTLvwm5x6vEx5uxFX8zDqxWGZDWWxC/view?usp=sharing)" alt="Gojo Satoru Image" style="width: 100%; max-width: 600px; height: auto; margin: 20px 0;">
+
+<a href="https://ramxcodes.github.io/Satoru-Gojo-Landing-Page/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; margin-bottom: 20px;">Visit Website</a>
+
 ## Features
 - Responsive design for various screen sizes.
 - Embedded video content for an engaging user experience.
