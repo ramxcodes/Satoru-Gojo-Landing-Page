@@ -24,7 +24,7 @@ The website provides details about Satoru Gojo's profile, including his age, hei
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/gojo-satoru-website.git
+git clone https://github.com/ramxcodes/Satoru-Gojo-Landing-Page.git
 ```
 
 ## Usage
