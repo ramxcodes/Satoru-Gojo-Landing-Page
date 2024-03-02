@@ -8,8 +8,6 @@ This is a simple website showcasing information about the fictional character **
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The website provides details about Satoru Gojo's profile, including his age, height, gender, hair color, and eye color. Additionally, a brief description of the series and its protagonist, Yuji Itadori, is included. The layout is designed with a modern and clean aesthetic.
@@ -37,11 +35,3 @@ The styles are defined in the `style.css` file. Customize the colors, fonts, or 
 
 ### Media
 Replace the existing `video.mp4` file with your own video content if desired. Ensure that the video file is compatible with modern browsers.
-
-## Contributing
-Contributions are welcome! If you find any issues or have ideas for improvements, please open an [issue](https://github.com/your-username/gojo-satoru-website/issues) or submit a [pull request](https://github.com/your-username/gojo-satoru-website/pulls).
-
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own projects.
-
-Enjoy exploring the world of Satoru Gojo and Jujutsu Kaisen! 🌟
