@@ -1,3 +1,4 @@
+ /* SOURCE CODE BY RAM AKA @Ramxcodes on Github Make Sure to Give a STAR ⭐ on the repo !!  */
 *{
     margin: 0px;
     padding: 0px;
@@ -111,7 +112,7 @@ html, body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(221, 70, 0);
+    background-color: #5788e4;
     padding: 30px;
     border-radius: 50%;
     color: #fff;
@@ -123,97 +124,98 @@ html, body{
     font-weight: 100;
 }
 
-
-
-@media (max-width:600px) {
-     #main{
-        grid-template-columns: 50% 50%;
-        grid-template-rows: 60px 34% 8%;
-    }
- #left-top-left{
-        padding: 20px;
-    }
-
-#square{
-        height: 15px;
-        width: 15px;
-    }
-    #left-top-right{
-        padding: 20px;
-        text-align: right;
-    }
-
-#left-top-right h4{
-        display: none;
-    }
-
- #left-top-right h5{
-        display: none;
-    }
-
-#left-top-right h6{
-        display: initial;
-        font-size: 20px;
-    }
-    
-
-#left-bottom {
-        padding: 5px 20px;
-    }
-    
- #left-bottom p{
-        width: 90%;
-        font-size: 10px;
-
-    }
-  #left-center{
-        padding: 10px 20px;
-    }
-
-#left-center h1{
-        font-size: 16vw;
-        line-height: 14vw;
-    }
-    
-    
-    #left-center h1:nth-child(2n){
-        text-align: right;
-    }
-
-#arrow{
-        top: 51%;
-        left: 40%;
-        padding: 10px;
-        transform: translate(-50%, -50%);
-        rotate: 90deg;
-    }
-
-  #arrow i{
-        font-size: 20px;
-    }
-
-    #right{
-        grid-column: 1 / 4;
-        grid-row: 4;
-        padding: 20px;
-        padding-right: 20px;
-    }
-
-#right video {
-        height: 42vh;
-
-    }
-
+footer.center-align {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
 
-    
-    
-  
-    
-
-
-    
+footer.center-align p {
+    display: inline-block;
+    margin: 0;
+    /* background-color: red; */
+}
 
 
 
 
+    @media (max-width:600px) {
+        #main{
+                grid-template-columns: 50% 50%;
+                grid-template-rows: 60px 34% 8%;
+            }
+        #left-top-left{
+                padding: 20px;
+            }
+
+        #square{
+                height: 15px;
+                width: 15px;
+            }
+            #left-top-right{
+                padding: 20px;
+                text-align: right;
+            }
+
+        #left-top-right h4{
+                display: none;
+            }
+
+        #left-top-right h5{
+                display: none;
+            }
+
+        #left-top-right h6{
+                display: initial;
+                font-size: 20px;
+            }
+            
+
+        #left-bottom {
+                padding: 5px 20px;
+            }
+            
+        #left-bottom p{
+                width: 90%;
+                font-size: 10px;
+
+            }
+        #left-center{
+                padding: 10px 20px;
+            }
+
+        #left-center h1{
+                font-size: 16vw;
+                line-height: 14vw;
+            }
+            
+            
+            #left-center h1:nth-child(2n){
+                text-align: right;
+            }
+
+        #arrow{
+                top: 51%;
+                left: 40%;
+                padding: 10px;
+                transform: translate(-50%, -50%);
+                rotate: 90deg;
+            }
+
+        #arrow i{
+                font-size: 20px;
+            }
+
+        #right{
+                grid-column: 1 / 4;
+                grid-row: 4;
+                padding: 20px;
+                padding-right: 20px;
+            }
+
+        #right video {
+                height: 42vh;
+
+            }
+    }
