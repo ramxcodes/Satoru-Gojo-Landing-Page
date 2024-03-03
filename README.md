@@ -1,6 +1,8 @@
-# Gojo Satoru Website
+# Gojo Satoru Landing Page
 
 This is a simple website showcasing information about the fictional character **Satoru Gojo** from the anime/manga series *Jujutsu Kaisen*. The site is designed with a responsive layout to ensure a seamless viewing experience on various devices.
+
+---
 
 ## Table of Contents
 - [Introduction](#introduction)
